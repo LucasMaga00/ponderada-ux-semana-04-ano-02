@@ -1,5 +1,5 @@
 // Quadrado Vivo - Uma animação interativa com transformações geométricas
-// Autores: Lucas Magalhães Castro Rodrigues
+// Autor: Lucas Magalhães Castro Rodrigues
 
 let angle = 0;          // Ângulo de rotação
 let scaleFactor = 1;    // Fator de escala
